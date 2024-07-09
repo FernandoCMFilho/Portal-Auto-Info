@@ -1,6 +1,6 @@
 # Portal-Auto-Info
 ##### Esse é o meu trabalho final de AP2, utilizando apenas C
-### Biblioteca Main
+### ![electro 15](https://github.com/FernandoCMFilho/Portal-Auto-Info/assets/54756245/7df59688-0100-4036-bca4-5b586bf9544a) Biblioteca Main
 ``` C
 #include <stdio.h>
 #include <stdlib.h>
@@ -410,7 +410,7 @@ int main()
     return 0;
 }
 ```
-### Biblioteca Portal_Auto
+### ![electro 15](https://github.com/FernandoCMFilho/Portal-Auto-Info/assets/54756245/7df59688-0100-4036-bca4-5b586bf9544a) Biblioteca Portal_Auto
 ``` C
 #ifndef Portal_Auto
 #define Portal_Auto
